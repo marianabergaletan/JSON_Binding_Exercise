@@ -1,0 +1,76 @@
+{
+"Products": [
+{
+    "ProductID": 1,
+    "ProductName": "Apple",
+    "SupplierID": 3,
+    "CategoryID": 23,
+    "QuantityPerUnit": "10 boxes x 20 bags",
+    "UnitPrice": 123.00,
+    "UnitsInStock": 34,
+    "UnitsOnOrder": 9,
+    "ReorderLevel": 34,
+    "Discontinued": false
+},
+{
+    "ProductID": 2,
+    "ProductName": "Kale",
+    "SupplierID": 23,
+    "CategoryID": 25,
+    "QuantityPerUnit": "13 boxes x 40 bags",
+    "UnitPrice": 14553.00,
+    "UnitsInStock": 54,
+    "UnitsOnOrder": 2,
+    "ReorderLevel": 4,
+    "Discontinued": false
+},
+{
+    "ProductID": 3,
+    "ProductName": "Burger",
+    "SupplierID": 45,
+    "CategoryID": 563,
+    "QuantityPerUnit": "40 boxes x 30 bags",
+    "UnitPrice": 1345.00,
+    "UnitsInStock": 454,
+    "UnitsOnOrder": 5,
+    "ReorderLevel": 3,
+    "Discontinued": false
+},
+{
+    "ProductID": 4,
+    "ProductName": "Honey",
+    "SupplierID": 34,
+    "CategoryID": 56,
+    "QuantityPerUnit": "530 boxes x 20 bags",
+    "UnitPrice": 1452.00,
+    "UnitsInStock": 54,
+    "UnitsOnOrder": 3,
+    "ReorderLevel": 45,
+    "Discontinued": false
+},
+{
+    "ProductID": 5,
+    "ProductName": "Brocolli",
+    "SupplierID": 34,
+    "CategoryID": 53,
+    "QuantityPerUnit": "54 boxes x 2 bags",
+    "UnitPrice": 1453.00,
+    "UnitsInStock": 5632,
+    "UnitsOnOrder": 53,
+    "ReorderLevel": 456,
+    "Discontinued": false
+},
+{
+    "ProductID": 6,
+    "ProductName": "Hale",
+    "SupplierID": 45,
+    "CategoryID": 25667,
+    "QuantityPerUnit": "50 boxes x 60 bags",
+    "UnitPrice": 4355.00,
+    "UnitsInStock": 4,
+    "UnitsOnOrder": 9,
+    "ReorderLevel": 654,
+    "Discontinued": false
+}
+]
+}
